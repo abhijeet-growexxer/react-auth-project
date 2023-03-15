@@ -1,0 +1,9 @@
+.link {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.forgot-password {
+    display: flex;
+    justify-content: flex-end;
+}
